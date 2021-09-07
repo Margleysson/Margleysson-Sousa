@@ -1,6 +1,6 @@
 # Olá, eu sou Margleysson-Sousa
-✔Hoje sou formado em Ciências Contábeis
-✔Estudando desenvolvimento Web
+✔Atualmente sou formado em Ciências Contábeis
+✔Estudando Desenvolvimento Fullstack
 ✔Conhecimento nas Linguagens Python e Java Script
 ✔HTML, CSS, Node js, TypeScript, Angular e React
 ✔email: margleysson@gmail.com
@@ -19,6 +19,7 @@
   <img align="center" alt="Margleysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Margleysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Margleysson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Margleysson-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  _________________
 
