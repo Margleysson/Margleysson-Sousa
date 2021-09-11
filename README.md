@@ -1,6 +1,8 @@
 # Olá, eu sou Margleysson-Sousa
+
 ✔Atualmente sou formado em Ciências Contábeis
-✔Estudando Desenvolvimento Fullstack
+✔Estudando Análise e Desenvolvimento de Sistemas
+✔Dsesenvolvedor Fullstack Jr
 ✔Conhecimento nas Linguagens Python e Java Script
 ✔HTML, CSS, Node js, TypeScript, Angular e React
 ✔email: margleysson@gmail.com
